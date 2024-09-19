@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<HTML lang="en">
+
+<head>
+
+    <title> Website </title>
+</head>
+
+<body>
+    <!--       Code Is Written  for Home Page 
+       -->
+
+    <!-- <h1> This is H1 Tag HTML </h1>
+    <h2> This is H2 Tag in HTML </h2>
+    <h3>This is H3 Tag in HTML </h3>
+    <h4>This is H4 Tag in HTML </h4>
+    <h5> This is H5 Tag in HTML </h5>
+    <h6>This is H6 Tag in HTML </h6>
+
+
+
+    <p> This is My  <br> Paragraph </p>
+    <a href="https://www.wikipedia.org/" target="_blank"> Go to wikipedia </a>
+    
+     <img src="seo.jpg" alt="">
+     -->
+     
+
+     <!-- <p>   
+  Lorem ipsum dolor sit amet consectetur adipisicing elit.  <br> Tempore dolorum alias illo distinctio minus nam sequi eaque dicta neque amet.
+
+     </p> -->
+
+   
+     <p>
+        Lorem ipsum dolor sit amet <b>    Mayur Adlak  </b> consectetur adipisicing elit.   <u>  Pravin Singh  </u> Perferendis totam corporis  <i>  Blend Vidya </i>      fugiat delectus rem doloremque nihil, amet quibusdam distinctio perspiciatis?
+     </p>
+<hr>
+
+<br>
+<p>   Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe similique pariatur   <b>   <i>  <u>    Mayur Adlak     </u> </i> </b>voluptates fugiat quaerat odio ipsa corrupti dolorum possimus illum? </p>
+
+
+
+   <big>   <i>  <b>   <u>  This is Big  </u> </b> </i>  </big>
+<br>
+   <small> This is My Small text in My Website  </small>
+   <a href="https://www.wikipedia.org/" target="_blank"> Go to wikipedia </a>  <br>
+
+
+
+
+      <!-- <a href="https://google.com" target="_blank">    <img src="https://th.bing.com/th/id/OIP.flV_HAhkgpxUwwDRW-5p9AHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7" alt="">    </a> -->
+
+   <img src="seo.jpg" alt=""  height="300px"  width="400px">
+
+
+
+   <!-- <pre> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo voluptate, fugit repellat iusto illum molestias distinctio voluptatem impedit voluptatibus fugiat earum ratione dolores neque rem repellendus atque nisi? Aspernatur animi nam voluptates, dolorem in enim quisquam. Asperiores cum eos reprehenderit. </pre> -->
+</body>
+
+</HTML>
