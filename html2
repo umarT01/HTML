@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- <span> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae eum blanditiis aspernatur, ipsum dolores exercitationem eius voluptatum facilis reiciendis repellendus? quam est distinctio! Distinctio inventore enim officia, aliquam architecto repudiandae officiis. </span> -->
+
+        <h1>This is My Ordered List </h1>
+        <ol type="A">
+            <li>DSA with Java</li>
+            <li>Java</li>
+            <li>Python </li>
+            <li>C++</li>
+        </ol>
+
+
+        <h2>This is My Unordered List </h2>
+        <ul>
+            <li>DSA with Java</li>
+            <li>Java</li>
+            <li>Python </li>
+            <li>C++</li>
+        </ul>
+
+
+        <h2> Let's Start Learning Table in the HTML </h2>
+
+
+
+        <table border="1px">
+            <thead>
+                <tr>
+                    <th>Name </th>
+                    <th colspan="2">Email & Phone  </th>
+                    <!-- <th>Phone</th> -->
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td> Mayur Adlak </td>
+                    <td> user@gmail.com </td>
+                    <td>6754378456</td>
+                </tr>
+                <tr>
+                    <td> User Adlak </td>
+                    <td> efwef@gmail.com </td>
+                    <td> 847754687 </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+</body>
+
+</html>
